@@ -40,7 +40,7 @@ The dataset contains 4 tables: `job_postings_fact`, `company_dim`, `skills_dim`,
 -- See Queries/Top_paying_jobs.sql
 ```
 
-![Top Paying Jobs](Assets/1_top_paying_jobs.png)
+![Top Paying Jobs](Assets/1_Top_paying_jobs.png)
 
 **Finding:** The highest paying remote Data Analyst role offered **$650,000/year** at Mantys. The top 10 roles range between **$184,000 and $650,000**, with Meta ($336,500), AT&T ($255,829), and SmartAsset appearing multiple times — consistent high-paying employers in this space.
 
@@ -52,7 +52,7 @@ The dataset contains 4 tables: `job_postings_fact`, `company_dim`, `skills_dim`,
 -- See Queries/Top_paying_job_skills.sql
 ```
 
-![Top Paying Job Skills](Assets/2_top_paying_jobs_skills.png)
+![Top Paying Job Skills](Assets/2_Top_paying_jobs_skills.png)
 
 **Finding:** Across the top 10 highest paying roles, **66 skill-job combinations** were found. SQL, Python, and Tableau appeared most frequently. Cloud tools like AWS, Azure, and Databricks also appeared consistently — signaling that cloud knowledge is expected at senior, high-paying levels.
 
