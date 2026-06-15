@@ -1,6 +1,6 @@
 # 📊 Data Analyst Job Market Analysis (SQL)
 
-An analysis of the 2023 data analyst job market using PostgreSQL. This project explores top-paying roles, required skills, and hiring trends to help job seekers make smarter career decisions.
+An analysis of the 2023 data jobs market using PostgreSQL. This project explores top-paying roles, required skills, and hiring trends to help job seekers make smarter career decisions.
 
 ---
 
